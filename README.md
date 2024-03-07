@@ -15,11 +15,15 @@ Currently a work in progress and there is a very good chance files and BOM will 
 - MR83 3x8x3 bearings
 - MR128 8x12x3.5 Bearings
 - 1/10 scale servo or 9g servo
-- 70-80mm shock (I use 70mm but if you want it to sit a littler higher 80mm works)
+- 70-80mm shock
+  - I use 70mm but if you want it to sit a littler higher 80mm works
 - 48mm Mini E-Revo shocks for skis (Optional)
-- 150g 85a TPU
-- 1.5kg PLA+/Tough PLA works well but most components it does not matter
+- 150g 85a TPU for track and hood hinge/straps
+  - 95a may work but the track will not be nearly as flexible and take more power to turn
+- 1.5kg rigid filament
+  - PLA+/Tough PLA works well but most components it does not matter
 - M3 screws
+  - Mostly 8mm, 12mm, and 16mm
 - 12t 2GT pulley
 - 188mm 2GT Closed loop belt
 - a skeeride 2 driveshaft
