@@ -20,6 +20,8 @@ Currently a work in progress and there is a very good chance files and BOM will 
 - 150g 85a TPU
 - 1.5kg PLA+/Tough PLA
 - M3 screws
+- 12t 2GT pulley
+- 188mm 2GT Closed loop belt
 - a skeeride 2 driveshaft
 
 
