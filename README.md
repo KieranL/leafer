@@ -4,6 +4,8 @@
 
 Currently a work in progress and there is a very good chance files and BOM will change
 
+![PXL_20240307_222452690](https://github.com/KieranL/leafer/assets/9357961/21b50797-f427-4741-aa0c-8ddf2b3675ce)
+
 ## BOM
 
 - 380 size brushless motor (max 29mm diameter) ~3000kv
