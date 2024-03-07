@@ -1,3 +1,21 @@
 # Leafer
 
  A 3D printed RC snowmobile styled after machines from the 70s
+
+Currently a work in progress and there is a very good chance files and BOM will change
+
+## BOM
+
+- 380 size brushless motor (max 29mm diameter) ~3000kv
+- 2s LiPo ~2200mah
+- MR83 3x8x3 bearings
+- MR128 8x12x3.5 Bearings
+- 1/10 scale servo or 9g servo
+- 70-80mm shock (I use 70mm but if you want it to sit a littler higher 80mm works)
+- 48mm Mini E-Revo shocks for skis (Optional)
+- 150g 85a TPU
+- 1.5kg PLA+/Tough PLA
+- M3 screws
+- a skeeride 2 driveshaft
+
+
