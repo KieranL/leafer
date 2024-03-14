@@ -29,7 +29,7 @@ Currently a work in progress and there is a very good chance files and BOM will 
 - Motor drive pulley
   - 12t 2GT pulley for 380 motor
   - 16t 2GT pulley for 3530 Outrunner
-- Driven pulley
+- Driven pulley (printable options will be included)
   - 68t for 380
   - 64t for C3530
 - 188mm 2GT Closed loop belt
