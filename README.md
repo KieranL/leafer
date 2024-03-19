@@ -40,3 +40,10 @@ Electronics have been tested to work in this config unless noted
   - 64t for C3530
 - 188mm 2GT Closed loop belt
 
+## Remaining work
+
+- Completed 540/C3530 mounts
+- spindle covers
+- make gas tank and hood fit better
+- bumpers
+
