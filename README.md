@@ -8,14 +8,20 @@ Currently a work in progress and there is a very good chance files and BOM will 
 
 ![PXL_20240307_222452690](https://github.com/KieranL/leafer/assets/9357961/21b50797-f427-4741-aa0c-8ddf2b3675ce)
 
-## BOM
+## BOM 
+
+Electronics have been tested to work in this config unless noted
 
 - Motor (with matching esc)
-  - 380 size brushless motor (max 29mm diameter) ~3000kv (untested)
-  - C3530 Outrunner 1400kv (slow on 2s but decent on 3s)
-- 2-3s LiPo ~2000mah
-- MR83 3x8x3 bearings
-- MR128 8x12x3.5 Bearings
+  - 380 size brushless motor, 19mm hole spacing (max 28mm diameter) ~3100kv
+    - Expensive, nicer option https://www.aliexpress.com/item/1005005022319781.html
+    - Cheap option with servo https://www.aliexpress.com/item/1005001562382697.html
+  - C3530 Outrunner, 25mm hole spacing 1400kv (slow on 2s but decent on 3s)
+    - ESC Quicrun 16BL30 https://www.aliexpress.com/item/32757093933.html Motor C3530 1700kv https://www.aliexpress.com/item/4000390032358.html
+  - 540 size motors _should_ in theory work with same mounting holes as the C3530 but are quite a bit heavier
+- 2-3s LiPo 1000-2200mah
+  - 2200mah 2s gives around 25-30 minute run time in low snow/icy conditions with a 3300kv sensored 380 motor 
+- 14x MR128 8x12x3.5 Bearings
 - 1/10 scale servo or 9g servo
 - 70-80mm shock
   - I use 70mm but if you want it to sit a littler higher 80mm works
@@ -27,8 +33,8 @@ Currently a work in progress and there is a very good chance files and BOM will 
 - M3 screws
   - Mostly 8mm, 12mm, and 16mm
 - Motor drive pulley
-  - 12t 2GT pulley for 380 motor
-  - 16t 2GT pulley for 3530 Outrunner
+  - 12t 2GT 3.175mm bore (or 5mm bore with shaft adapter) pulley for 380 motor
+  - 16t 2GT 4mm bore pulley for 3530 Outrunner
 - Driven pulley (printable options will be included)
   - 68t for 380
   - 64t for C3530
