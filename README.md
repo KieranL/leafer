@@ -14,10 +14,10 @@ Electronics have been tested to work in this config unless noted
 
 - Motor (with matching esc)
   - 380 size brushless motor, 19mm hole spacing (max 28mm diameter) ~3100kv
-    - Expensive, nicer option https://www.aliexpress.com/item/1005005022319781.html
-    - Cheap option with servo https://www.aliexpress.com/item/1005001562382697.html
+    - Expensive, nicer option [Rocket Supersonic sensored 380 3300kv](https://s.click.aliexpress.com/e/_DdVOuNJ)
+    - Cheap option with servo [Rocket 2845 3100kv](https://www.aliexpress.com/item/1005001562382697.html)
   - C3530 Outrunner, 25mm hole spacing 1400kv (slow on 2s but decent on 3s)
-    - ESC Quicrun 16BL30 https://www.aliexpress.com/item/32757093933.html Motor C3530 1700kv https://www.aliexpress.com/item/4000390032358.html
+    - [ESC Quicrun 16BL30](https://s.click.aliexpress.com/e/_DcZGKr3)  [Motor C3530 1700kv](https://s.click.aliexpress.com/e/_DBsAxyv)
   - 540 size motors _should_ in theory work with same mounting holes as the C3530 but are quite a bit heavier
 - 2-3s LiPo 1000-2200mah
   - 2200mah 2s gives around 25-30 minute run time in low snow/icy conditions with a 3300kv sensored 380 motor 
