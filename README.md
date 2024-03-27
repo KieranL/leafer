@@ -34,10 +34,10 @@ Electronics have been tested to work in this config unless noted
   - Mostly 8mm, 12mm, and 16mm
 - Motor drive pulley
   - 12t 2GT 3.175mm bore (or 5mm bore with shaft adapter) pulley for 380 motor
-  - 16t 2GT 4mm bore pulley for 3530 Outrunner
+  - 16-20t 2GT 4mm bore pulley for 3530 Outrunner
 - Driven pulley (printable options will be included)
-  - 68t for 380
-  - 64t for C3530
+  - 64-68t for 380
+  - 60-64t for C3530
 - 188mm 2GT Closed loop belt
 
 ## Remaining work
