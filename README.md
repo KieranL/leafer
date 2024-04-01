@@ -15,8 +15,7 @@ Electronics have been tested to work in this config unless noted
 - Motor (with matching esc)
   - 380 size brushless motor, 19mm hole spacing (max 28mm diameter) 3000-4000kv
     - Cheap option with servo (2-3s) [Rocket 2845 3100kv](https://www.aliexpress.com/item/1005001562382697.html)
-    - Expensive, option (2s Only) [Rocket Supersonic sensored 380 3300kv](https://s.click.aliexpress.com/e/_DdVOuNJ)
-      - Have not tested it but I think 4000-5000kv may be better if limited to 2s
+    - Expensive, sensored option (2-3s) (Specs say max 11v for ESC but they told me 3s is fine and I have run multiple packs through it on 3s) [Rocket Supersonic sensored 380 3300kv](https://s.click.aliexpress.com/e/_DdVOuNJ)
   - C3530 Outrunner, 25mm hole spacing 1400kv (slow on 2s but decent on 3s)
     - [ESC Quicrun 16BL30](https://s.click.aliexpress.com/e/_DcZGKr3)  [Motor C3530 1700kv](https://s.click.aliexpress.com/e/_DBsAxyv)
   - 540 size motors _should_ in theory work with same mounting holes as the C3530 but are quite a bit heavier
