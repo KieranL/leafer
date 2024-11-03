@@ -20,7 +20,7 @@ Note: some of these are affiliate links
     - Cheap option with servo [Rocket 2845 3100kv](https://www.aliexpress.com/item/1005001562382697.html)
   - C3530 Outrunner, 25mm hole spacing 1700kv (slow on 2s but decent on 3s)
     - [ESC Quicrun 16BL30](https://s.click.aliexpress.com/e/_DcZGKr3)  [Motor C3530 1700kv](https://s.click.aliexpress.com/e/_DBsAxyv)
-  - 540 size motors _should_ in theory work with same mounting holes as the C3530 but are quite a bit heavier
+  - 540/36xx size motors _should_ in theory work with same mounting holes as the C3530 but are quite a bit heavier
 - 2-3s LiPo 1000-2200mah
   - 2200mah 2s gives around 25-30 minute run time in low snow/icy conditions with a 3300kv sensored 380 motor 
     - I run CNHL Black Series 1300-1500mah 2-3s batteries that fit well in the front. There is also room under the seat but I don't recommend putting the battery there
