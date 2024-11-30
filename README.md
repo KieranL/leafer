@@ -70,4 +70,5 @@ Note: The rear axle cross shaft and front cross brace look the same, but the rea
 - Handlebars
 - Windsheild
 - Tail light for seat
+- clean up CAD and release newest CAD
 
