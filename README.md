@@ -46,7 +46,7 @@ Note: some of these are affiliate links
   - 16-20t 2GT 4-5mm bore pulley for 36XX
 - Driven pulley (printable options will be included)
   - 58-64t for 380
-  - 58-60t for 36XX
+  - 56-60t for 36XX
 - 188mm 2GT Closed loop belt
 - short piece of gt2 belt for front limiter strap
 - 8mm aluminum/steel driveshaft if not using the printed one
