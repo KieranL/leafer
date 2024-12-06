@@ -6,7 +6,8 @@ Currently a work in progress and there is a very good chance files and BOM will 
 
 [Download all files](https://github.com/KieranL/leafer/archive/refs/heads/main.zip)
 
-![PXL_20240307_222452690](https://github.com/KieranL/leafer/assets/9357961/21b50797-f427-4741-aa0c-8ddf2b3675ce)
+![PXL_20241206_215935408](https://github.com/user-attachments/assets/bb789e8b-1dca-483b-8c07-043e192e1087)
+![PXL_20241206_220219765](https://github.com/user-attachments/assets/a0b37f3f-0062-4779-826e-ac0373ebff43)
 
 ## BOM 
 
