@@ -18,7 +18,7 @@ Note: some of these are affiliate links
   - 380 size brushless motor, 19mm hole spacing (max 28mm diameter) ~3100kv
     - Expensive, nicer option [Rocket Supersonic sensored 380 3300kv](https://s.click.aliexpress.com/e/_DdVOuNJ)
     - Cheap option with servo [Rocket 2845 3100kv](https://www.aliexpress.com/item/1005001562382697.html)
-  - 540/36xx size motors should work with same mounting holes as the C3530 but are quite a bit heavier
+  - 540/36xx size motors should work with a different frame (included)
 - 2-3s LiPo 1000-2200mah
   - 2200mah 2s gives around 25-30 minute run time in low snow/icy conditions with a 3300kv sensored 380 motor 
     - I run CNHL Black Series 1300-1500mah 2-3s batteries that fit well in the front. There is also room under the seat but I don't recommend putting the battery there
