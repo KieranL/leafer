@@ -18,8 +18,6 @@ Note: some of these are affiliate links
   - 380 size brushless motor, 19mm hole spacing (max 28mm diameter) ~3100kv
     - Expensive, nicer option [Rocket Supersonic sensored 380 3300kv](https://s.click.aliexpress.com/e/_DdVOuNJ)
     - Cheap option with servo [Rocket 2845 3100kv](https://www.aliexpress.com/item/1005001562382697.html)
-  - C3530 Outrunner, 25mm hole spacing 1700kv (slow on 2s but decent on 3s)
-    - [ESC Quicrun 16BL30](https://s.click.aliexpress.com/e/_DcZGKr3)  [Motor C3530 1700kv](https://s.click.aliexpress.com/e/_DBsAxyv)
   - 540/36xx size motors should work with same mounting holes as the C3530 but are quite a bit heavier
 - 2-3s LiPo 1000-2200mah
   - 2200mah 2s gives around 25-30 minute run time in low snow/icy conditions with a 3300kv sensored 380 motor 
@@ -45,10 +43,10 @@ Note: some of these are affiliate links
   - skid rear axle and steering links
 - Motor drive pulley
   - 12t 2GT 3.175mm bore (or 5mm bore with shaft adapter) pulley for 380 motor
-  - 16-20t 2GT 4-5mm bore pulley for 3530 Outrunner or 36XX
+  - 16-20t 2GT 4-5mm bore pulley for 36XX
 - Driven pulley (printable options will be included)
   - 58-64t for 380
-  - 58-60t for C3530/3XX
+  - 58-60t for 36XX
 - 188mm 2GT Closed loop belt
 - short piece of gt2 belt for front limiter strap
 - 8mm aluminum/steel driveshaft if not using the printed one
