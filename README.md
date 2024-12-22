@@ -9,6 +9,11 @@ Currently a work in progress and there is a very good chance files and BOM will 
 ![PXL_20241206_215935408](https://github.com/user-attachments/assets/bb789e8b-1dca-483b-8c07-043e192e1087)
 ![PXL_20241206_220219765](https://github.com/user-attachments/assets/a0b37f3f-0062-4779-826e-ac0373ebff43)
 
+
+##
+
+Join the discord group https://discord.gg/C744rbBbvj
+
 ## BOM 
 
 Electronics have been tested to work in this config unless noted
