@@ -68,6 +68,35 @@ Note: some of these are affiliate links
 
 Note: The rear axle cross shaft and front cross brace look the same, but the rear one has a larger hole so you can slide a threaded rod through, where as the front is smaller so you can thread a bolt into it
 
+## The build
+
+### Skid
+
+Glue the gt2 belt limiter strap into the tensioner, and wrap the other end around the front skid brace and lock it down with a zip tie
+
+![PXL_20241223_175957527](https://github.com/user-attachments/assets/99850070-65d1-4aec-a939-e34f1e5f7539)
+![PXL_20241223_180003280](https://github.com/user-attachments/assets/6b03c6c3-afd8-4b56-a8d1-8a88836e8a91)
+
+### Steering
+
+There are 2 servo size options, both will work with option A
+
+#### Option A
+
+Printed steering link between each spindle, with a link made with m3 rod and ends from the servo horn to the printed link
+
+![PXL_20241223_175840209](https://github.com/user-attachments/assets/adfa3e9c-3db2-49a9-887d-46188f749122)
+![PXL_20241223_175848588](https://github.com/user-attachments/assets/edec7c17-9feb-42ed-aeb9-10a6b9ed398e)
+
+#### Option B 
+
+Only works with the smaller 9g/TR4 servo
+
+Link between spindles with m3 rod and link from the servo to the right spindle
+
+![PXL_20241223_180355037](https://github.com/user-attachments/assets/cfa1ff2d-653f-4696-b7fa-20e2778d969c)
+![PXL_20241223_180345975](https://github.com/user-attachments/assets/7c215921-1879-4ea2-8750-dd8d424733ac)
+
 
 ## Remaining work
 
