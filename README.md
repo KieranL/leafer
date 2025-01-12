@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y718VEOP)
+
 # Leafer
 
  A 3D printed RC snowmobile styled after machines from the 70s
