@@ -99,6 +99,12 @@ Link between spindles with m3 rod and link from the servo to the right spindle
 ![PXL_20241223_180355037](https://github.com/user-attachments/assets/cfa1ff2d-653f-4696-b7fa-20e2778d969c)
 ![PXL_20241223_180345975](https://github.com/user-attachments/assets/7c215921-1879-4ea2-8750-dd8d424733ac)
 
+### Bellypan
+
+The little tabs on the bellypan are to help align the hood, which requires carefully heating and bending the tabs upward so they stick out from the edges
+
+https://github.com/user-attachments/assets/de6299b1-76f1-442c-9996-66a0bb9452ee
+
 
 ## Remaining work
 
