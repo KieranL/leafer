@@ -60,6 +60,9 @@ Note: some of these are affiliate links
 - 8mm aluminum/steel driveshaft if not using the printed one
   - slightly shorter overall but the bolt spacing is the same as skeeride 2 shaft which will also fit
 
+- Lights (optional)
+  - https://s.click.aliexpress.com/e/_c3cogIUp these injora 17mm lights, take them out of the housing. headlight uses a pair, and the tail light plus dash light (wip) will each use a single pcb of the pair. So in total 2 sets of lights for the whole sled
+
 ## Printing
 
 - Print the track, hood straps, hood hinges, snow flap, and spindle covers in TPU
