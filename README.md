@@ -7,8 +7,8 @@
 Currently a work in progress and there is a very good chance files and BOM will change
 
 [Download all files](https://github.com/KieranL/leafer/archive/refs/heads/main.zip)
-
-![PXL_20241206_215935408](https://github.com/user-attachments/assets/bb789e8b-1dca-483b-8c07-043e192e1087)
+![PXL_20251224_192400021](https://github.com/user-attachments/assets/2b79de60-4d97-4d76-990f-1aa17ed70b75)
+![PXL_20251224_192408462](https://github.com/user-attachments/assets/ca3321e6-215a-4eb3-a5bb-cd1859ffbfad)
 ![PXL_20241206_220219765](https://github.com/user-attachments/assets/a0b37f3f-0062-4779-826e-ac0373ebff43)
 
 
