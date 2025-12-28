@@ -37,7 +37,7 @@ Note: some of these are affiliate links
 - 70-80mm shock
   - I use 70mm but if you want it to sit a littler higher 80mm works
 - 48mm Mini E-Revo shocks for skis (Optional)
-- GPM ones work well [GPM shock](https://s.click.aliexpress.com/e/_c2y8ozYZ)
+  - GPM ones work well [GPM shock](https://s.click.aliexpress.com/e/_c2y8ozYZ)
 - 150g 85a TPU for track and hood hinge/straps
   - 95a may work but the track will not be nearly as flexible and take more power to turn
 - 1kg rigid filament
