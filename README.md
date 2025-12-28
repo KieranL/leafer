@@ -37,6 +37,7 @@ Note: some of these are affiliate links
 - 70-80mm shock
   - I use 70mm but if you want it to sit a littler higher 80mm works
 - 48mm Mini E-Revo shocks for skis (Optional)
+- GPM ones work well [GPM shock](https://s.click.aliexpress.com/e/_c2y8ozYZ)
 - 150g 85a TPU for track and hood hinge/straps
   - 95a may work but the track will not be nearly as flexible and take more power to turn
 - 1kg rigid filament
@@ -59,7 +60,8 @@ Note: some of these are affiliate links
 - short piece of gt2 belt for front limiter strap
 - 8mm aluminum/steel driveshaft if not using the printed one
   - slightly shorter overall but the bolt spacing is the same as skeeride 2 shaft which will also fit
-
+- Any 2+ channel radio system should work, I recommend one with a gyro
+  - I am using the [Turbo Racing P52 transmitter with RX49 receiver](https://s.click.aliexpress.com/e/_c3DZknCp) since these recievers will pair with the OEM RTR Vanquish crawler radios
 - Lights (optional)
   - https://s.click.aliexpress.com/e/_c3cogIUp these injora 17mm lights, take them out of the housing. headlight uses a pair, and the tail light plus dash light (wip) will each use a single pcb of the pair. So in total 2 sets of lights for the whole sled
 
