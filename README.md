@@ -56,7 +56,7 @@ Note: some of these are affiliate links
 - Driven pulley (printable options will be included)
   - 58-64t for 380
   - 56-60t for 36XX
-- 188mm 2GT Closed loop belt
+- 188mm long 6mm wide 2GT Closed loop belt
 - short piece of gt2 belt for front limiter strap
 - 8mm aluminum/steel driveshaft if not using the printed one
   - slightly shorter overall but the bolt spacing is the same as skeeride 2 shaft which will also fit
