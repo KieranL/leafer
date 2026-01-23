@@ -23,11 +23,14 @@ Electronics have been tested to work in this config unless noted
 Note: some of these are affiliate links
 
 - Motor (with matching esc)
+  - NEW!!!! my new favourite combo with a D3536 750kv outrunner and Hobbywing 16BL30 ESC. Low CG, plenty of power, and no belt or aluminum/printed driveshaft needed. Works with either bulkhead type
+    - [ESC Hobbywing 16BL30 v2](https://s.click.aliexpress.com/e/_c4OfwmCF)
+    - [D3536 750kv outrunner](https://www.aliexpress.com/item/1005004728139495.html) (will need flat ground on to output shaft)
   - 380 size brushless motor, 19mm hole spacing (max 28mm diameter) ~3100kv
     - Expensive, nicer option [Rocket Supersonic sensored 380 3300kv](https://s.click.aliexpress.com/e/_DdVOuNJ)
     - Cheap option with servo [Rocket 2845 3100kv](https://www.aliexpress.com/item/1005001562382697.html)
   - 540/36xx size motors should work with a different frame (included)
-- 2-3s LiPo 1000-2200mah
+- 2-3s LiPo 850-2200mah
   - 2200mah 2s gives around 25-30 minute run time in low snow/icy conditions with a 3300kv sensored 380 motor 
     - I run CNHL Black Series 1300-1500mah 2-3s batteries that fit well in the front. There is also room under the seat but I don't recommend putting the battery there
 - Battery strap
@@ -47,19 +50,19 @@ Note: some of these are affiliate links
 - M2.5 Screws (if using ski shocks)
   -  2 10mm, 2 16mm
 - M3 screws
-  - Mostly 6mm, 8mm, 12mm, and 16mm
+  - Mostly 6mm, 8mm, 12mm, 16mm, and 25mm
 - M3 Threaded rod
-  - skid rear axle and steering links
-- Motor drive pulley
+  - skid rear axle (75mm) and steering links (depends on servo setup)
+- Motor drive pulley (not needed for direct drive setup)
   - 12t 2GT 3.175mm bore (or 5mm bore with shaft adapter) pulley for 380 motor
   - 16-20t 2GT 4-5mm bore pulley for 36XX
-- Driven pulley (printable options will be included)
+- Driven pulley (printable options will be included) (not needed for direct drive setup)
   - 58-64t for 380
   - 56-60t for 36XX
-- 188mm long 6mm wide 2GT Closed loop belt
+- 188mm long 6mm wide 2GT Closed loop belt (not needed for direct drive setup)
 - short piece of gt2 belt for front limiter strap
 - 8mm aluminum/steel driveshaft if not using the printed one
-  - slightly shorter overall but the bolt spacing is the same as skeeride 2 shaft which will also fit
+  - slightly shorter overall but the bolt spacing is the same as skeeride 2 shaft which will also fit (not needed for direct drive setup)
 - Any 2+ channel radio system should work, I recommend one with a gyro
   - I am using the [Turbo Racing P52 transmitter with RX49 receiver](https://s.click.aliexpress.com/e/_c3DZknCp) since these recievers will pair with the OEM RTR Vanquish crawler radios
 - Lights (optional)
@@ -109,12 +112,4 @@ Link between spindles with m3 rod and link from the servo to the right spindle
 The little tabs on the bellypan are to help align the hood, which requires carefully heating and bending the tabs upward so they stick out from the edges
 
 https://github.com/user-attachments/assets/de6299b1-76f1-442c-9996-66a0bb9452ee
-
-
-## Remaining work
-
-- Handlebars
-- Windsheild
-- Tail light for seat
-- clean up CAD and release newest CAD
 
