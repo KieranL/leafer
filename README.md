@@ -113,3 +113,9 @@ The little tabs on the bellypan are to help align the hood, which requires caref
 
 https://github.com/user-attachments/assets/de6299b1-76f1-442c-9996-66a0bb9452ee
 
+### Direct drive setup
+
+![PXL_20260123_041238936](https://github.com/user-attachments/assets/20cbde8f-507e-49e5-8082-9d1e0ee9a0ea)
+
+![PXL_20260123_041245446](https://github.com/user-attachments/assets/3d245670-e3ef-4255-8fc3-377026316348)
+
