@@ -34,8 +34,10 @@ Note: some of these are affiliate links
   - 2200mah 2s gives around 25-30 minute run time in low snow/icy conditions with a 3300kv sensored 380 motor 
     - I run CNHL Black Series 1300-1500mah 2-3s batteries that fit well in the front. There is also room under the seat but I don't recommend putting the battery there
 - Battery strap
-- 6+ MR83 3x8x3 bearings (4 for rear idlers, 2 for front idler wheels and some for a belt tensioner if needed)    
+- 6+ MR83 3x8x3 bearings 
+  - 4 for rear idlers, 2 for front idler wheels and some for a belt tensioner if needed    
 - 8x MR128 8x12x3.5 Bearings
+  - 4x for the spindles, 2x for the driveshaft, 2x for the upper idler wheels
 - 1/10 scale servo or 9g/TR4 servo
 - 70-80mm shock
   - I use 70mm but if you want it to sit a littler higher 80mm works
