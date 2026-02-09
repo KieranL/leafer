@@ -119,3 +119,13 @@ https://github.com/user-attachments/assets/de6299b1-76f1-442c-9996-66a0bb9452ee
 
 ![PXL_20260123_041245446](https://github.com/user-attachments/assets/3d245670-e3ef-4255-8fc3-377026316348)
 
+### Ski
+
+![PXL_20260102_2159064952](https://github.com/user-attachments/assets/85f06ad9-dee6-407c-a7c6-2eb38534c2fe)
+
+From top to bottom:
+- saddle_upper or saddle_upper_spread
+- helper_spring
+- spring
+- saddle_lower
+- bump_stop
